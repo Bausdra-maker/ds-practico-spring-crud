@@ -1,6 +1,5 @@
-package etec.crud.model
+package etec.crud
 
-// El modelo define qué datos tiene un Instrumento en el sistema.
 data class Instrumento(
     val id: Long,
     val nombre: String,
